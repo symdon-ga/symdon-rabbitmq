@@ -1,1 +1,3 @@
 #+TITLE: symdon-rabbitmq
+
+[[https://user-images.githubusercontent.com/50688746/70372788-fcdcc580-1926-11ea-9493-a40105cde4e2.jpg]]
